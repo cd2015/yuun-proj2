@@ -262,11 +262,6 @@ CREATE TABLE IF NOT EXISTS `customer_reg` (
 --
 
 INSERT INTO `customer_reg` (`id`, `salutation`, `first_name`, `last_name`, `gender`, `phone_no`) VALUES
-(5, 'salutation', '', '', 'gender', ''),
-(6, 'salutation', '', '', 'gender', ''),
-(7, 'salutation', '', '', 'gender', ''),
-(8, 'salutation', '', '', 'gender', ''),
-(9, 'salutation', '', '', 'gender', ''),
 (10, 'Mr', 'Sowed', 'Mirembe', 'Female', '1234'),
 (11, 'Mr', 'Sowed', 'Mirembe', 'Female', '1234'),
 (12, 'Mr', 'Sowed', 'Mirembe', 'Female', '1234'),
@@ -279,36 +274,8 @@ INSERT INTO `customer_reg` (`id`, `salutation`, `first_name`, `last_name`, `gend
 (19, 'Mr', 'Sowed', 'Mirembe', 'Female', '1234'),
 (20, 'Mr', 'Sowed', 'Mirembe', 'Female', '1234'),
 (21, 'Mr', 'Sowed', 'Mirembe', 'Female', '1234'),
-(22, 'salutation', '', '', 'gender', ''),
-(23, 'salutation', '', '', 'gender', ''),
-(24, 'salutation', '', '', 'gender', ''),
-(25, 'Mrs', 'Jean', 'Nalu', 'Male', '0787623601'),
-(26, 'salutation', '', '', 'gender', ''),
-(27, 'salutation', '', '', 'gender', ''),
-(28, 'salutation', '', '', 'gender', ''),
-(29, 'Ms', 'Deks', 'Batwala', 'Female', '1234'),
-(30, 'Ms', 'Deks', 'Batwala', 'Female', '1234'),
-(31, 'Mr', 'Der Ick', 'Mirembe', 'Male', '0787623601'),
-(32, 'salutation', '', '', 'gender', ''),
-(33, 'salutation', '', '', 'gender', ''),
-(34, 'salutation', '', '', 'gender', ''),
-(35, 'salutation', '', '', 'gender', ''),
-(36, 'salutation', '', '', 'gender', ''),
-(37, 'salutation', '', '', 'gender', ''),
-(38, 'salutation', '', '', 'gender', ''),
-(39, 'salutation', '', '', 'gender', ''),
-(40, 'salutation', '', '', 'gender', ''),
-(41, 'salutation', '', '', 'gender', ''),
-(42, 'salutation', '', '', 'gender', ''),
-(43, 'salutation', '', '', 'gender', ''),
-(44, 'Mr', '', '', 'gender', ''),
-(45, 'Mr', 'Derrick', 'Josh', 'Male', 'ff'),
-(46, 'Mrs', 'Derrick', 'Mirembe', 'Female', '0787623601'),
-(47, 'Mr', 'Jonah', 'Kayizzi', 'Male', '0787623601'),
-(48, 'Mr', 'Derrick', 'Mulinde', 'Female', '1234'),
-(49, 'Mr', 'Derrick', 'Kintu', 'Male', '0787623601'),
-(50, 'Mr', 'Derrick', 'Mulinde', 'Male', '0787623601'),
-(51, 'Ms', 'Derrick', 'Mulinde', 'Male', '0787623601');
+(25, 'Mrs', 'Jean', 'Nalu', 'Male', '0780000000'),
+(51, 'Ms', 'Derrick', 'Mulinde', 'Male', '0780000000');
 
 -- --------------------------------------------------------
 
